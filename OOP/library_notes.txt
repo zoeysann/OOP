@@ -1,0 +1,24 @@
+Library Management. Book, book(class), methods: info, available, borrow, return and etc.
+
+1. info
+2. borrow- return
+3. available
+
+first someone will input his username and we're done with it. k not that but-
+
+FOR USERS --->
+
+Searches for a book by its title or a specific author and returns a list of matching books.
+OR Sorts the library's collection of books alphabetically by title and by author.
+
+
+FOR MANAGERS --->
+
+Checks if a particular book is available in the library.
+Returns a list of books currently borrowed from the library.
+Provides statistics about the library, such as the number of available books, the number of borrowed books, etc.
+Updates the details of a book in the library's collection.
+Calculates any late fees owed by a borrower for overdue books.
+Displays a list of all the books available in the library.
+Allows a borrower to borrow a book from the library.
+Marks a borrowed book as returned and makes it available again.
